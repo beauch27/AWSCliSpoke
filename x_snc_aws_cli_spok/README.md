@@ -11,6 +11,7 @@ Generate a pre-signed URL for an Amazon S3 object. This allows anyone who receiv
 * Outputs
   1. Signed URL
   
+Requires iHub Powershell capability and configured [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-windows.html) on [MidServer or target server](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-envvars.html)  
 
 # Generated files
 This repository contains generated files and a checksum.
