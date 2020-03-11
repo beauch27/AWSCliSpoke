@@ -1,3 +1,17 @@
+# Version 1.0
+Powershel Spoke to create S3 Presigned URL using AWS CLI
+
+Generate a pre-signed URL for an Amazon S3 object. This allows anyone who receives the pre-signed URL to retrieve the S3 object with an HTTP GET request. For sigv4 requests the region needs to be configured explicitly.
+
+* Inputs
+  1. Bucket Name
+  2. File Name
+  3. Experity (Seconds)
+  
+* Outputs
+  1. Signed URL
+  
+
 # Generated files
 This repository contains generated files and a checksum.
 
